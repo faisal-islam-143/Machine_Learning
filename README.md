@@ -130,7 +130,4 @@
 - [ ] Evolutionary Algorithms (Genetic, PSO, ACO)
 - [ ] AutoML / Neural Architecture Search
 - [ ] Physics-Informed Machine Learning
-x
-X
-git add README.md
 
